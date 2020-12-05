@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="all_padding">16dp</dimen>
+    <dimen name="all_marginTop">16dp</dimen>
+    <dimen name="all_marginStart">16dp</dimen>
+    <dimen name="all_marginEnd">16dp</dimen>
+    <dimen name="all_marginBottom">16dp</dimen>
+    <dimen name="main_padding">32dp</dimen>
+</resources>

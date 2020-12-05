@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="gameBeginDialog_player1Hint">Player 1</string>
+    <string name="gameBeginDialog_player2Hint">Player 2</string>
+    <string name="gameBeginDialog_title">New game</string>
+    <string name="all_done">Done</string>
+    <string name="gameBeginDialog_emptyName">Name mustn\'t be empty</string>
+    <string name="gameBeginDialog_sameNames">Names mustn\'t be the same</string>
+    <string name="gameEndDialog_headline">The winner is</string>
+    <string name="all_player1">Player 1</string>
+    <string name="all_player2">Player 2</string>
+    <string name="gameEndDialog_winner">The Winner is</string>
+</resources>
